@@ -6,3 +6,9 @@ This is my new webpage
 The Mandalorian is an upcoming American television series created by Jon Favreau. The series is set five years after the events of Star Wars: Episode VII – The Force Awakens, and follows the adventures of a lone Mandalorian gunfighter in the outer reaches of the galaxy.
 
 The Mandalorian is set to premiere March 1, 2023.
+
+The Mandalorian cast includes Pedro Pascal, Gina Carano, Carl Weathers
+
+The Mandalorian, AKA Din Djarin, is a feared and respected bounty hunter who has a reputation for being relentless in the pursuit of his targets. He is a skilled fighter and a master of hand-to-hand combat.
+
+Grogu, AKA Baby Yoda, is a 50-year-old infant who was discovered by the Mandalorian. He has a strong connection to the Force and is being sought after by the Empire.
