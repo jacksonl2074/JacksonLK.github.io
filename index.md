@@ -18,3 +18,5 @@ Grogu, AKA Baby Yoda, is a 50-year-old infant who was discovered by the Mandalor
 When searching for AI images of Grogu/Baby Yoda on beta.openai.com, I found some really ugly, scary images. Below is an example of one. Watch out! It's horrible!
 
 
+In comparison, DALL-E 2 gave me this: 
+<img src="DALL·E 2022-12-06 11.18.09 - promotional art of baby yoda in space, cute, character art.png">
