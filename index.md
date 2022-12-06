@@ -13,10 +13,10 @@ The Mandalorian, AKA Din Djarin, is a feared and respected bounty hunter who has
 
 Grogu, AKA Baby Yoda, is a 50-year-old infant who was discovered by the Mandalorian. He has a strong connection to the Force and is being sought after by the Empire.
 
-![image](https://user-images.githubusercontent.com/116817238/205964042-17c22a37-bab5-4df2-8df6-ba6b02138248.png)
+<img src="https://user-images.githubusercontent.com/116817238/205964042-17c22a37-bab5-4df2-8df6-ba6b02138248.png" width="500">
 
 When searching for AI images of Grogu/Baby Yoda on beta.openai.com, I found some really ugly, scary images. Below is an example of one. Watch out! It's horrible!
 
 
-In comparison, DALL-E 2 gave me this: 
-<img src="DALL·E 2022-12-06 11.18.09 - promotional art of baby yoda in space, cute, character art.png">
+In comparison, DALL-E 2 gave me this:<br> 
+<img src="DALL·E 2022-12-06 11.18.09 - promotional art of baby yoda in space, cute, character art.png" width="500">
