@@ -15,4 +15,4 @@ I had a pet Dachshund named Walter, but he passed away 2 years ago. He lived for
 <img src="DSC_0060.JPG">
 
 ## Contact Me
-<a href="[contact.html](contact.html">Say Hi</a>
+<a href="contact.html">Say Hi</a>
