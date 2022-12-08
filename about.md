@@ -20,7 +20,7 @@ I had a pet Dachshund named Walter, but he passed away 2 years ago. He lived for
 
 Last, but not least, my parents and I rescued a baby squirrel recently. His name is Mr. Nibbles AKA Superman. We tried to release him back into the wild, but he came back after 2 days!
 
-<img src="https://github.com/jacksonl2074/JacksonLK.github.io/blob/main/IMG_20221106_150153.jpg" width="600">
+<img src="IMG_20221106_150153.jpg" width="600">
 
 ## Contact Me
 <a href="contact.html">Say Hi</a>
