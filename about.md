@@ -12,3 +12,4 @@ I have a pet Dachshund, "wiener dog", named Evelyn, and she is 11.5 years old! S
 
 I had a pet Dachshund named Walter, but he passed away 2 years ago. He lived for 13.5 years & was a black-and-tan dog just like Evelyn. Walter had two major spinal injuries that caused him to lose most use of his hind legs. I bought him a little cart, AKA a doggie wheelchair, and he absolutely loved it! He lived his life as though he had no disability.
 
+<img src="DSC_0060.JPG">
