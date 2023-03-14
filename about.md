@@ -1,6 +1,6 @@
 # About Me 
 
-Hello, my name is <em><b>Laura</b></em>! I have created this webpage for a final project in my CTI 110 (Web, Programming, and Databases) class at Fayetteville Technical Community College (FTCC). I have really enjoyed this class, and Mr. Norris is awesome! 😊 I am currently studying Computer Programming & Development, as well as Geospatial Intelligence Studies.
+Hello, my name is <em><b>Laura</b></em>! I have created this webpage for a final project in my CTI 110 (Web, Programming, and Databases) class at Fayetteville Technical Community College (FTCC). I have really enjoyed this class! 😊 I am currently studying Computer Programming & Development, as well as Geospatial Intelligence Studies.
 
 My dream is to become a Computer Programmer and Web Developer. However, I'm very interested in many aspects of IT - including Data Science and Cybersecurity. 
 
